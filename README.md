@@ -5,5 +5,6 @@ A hands-on collection of SQL queries and exercises aimed at building strong fund
 * Pattern matching with LIKE
 * Date and time operations
 * Aggregation and sorting
-* Practical use of the Northwind sample database
+* Practical use of the Northwind sample database.
+
 Perfect for beginners.
